@@ -19,10 +19,26 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 - name | VARCHAR(50) NOT NULL
 - description | TEXT NOT NULL
 
-# Corsi di laurea
+## Corsi di laurea
 
 - ID | BIGINT - AUTO_INCREMENT - PRIMARY_KEY (UNIQUE, NOT NULL)
 - dipartiemnto_id | BIGINT (UNSIGNED)
 - name | VARCHAR(50) NOT NULL
 - description | TEXT NOT NULL
 - years | TINYINT NOT NULL
+
+## Corsi
+
+- ID | BIGINT - AUTO_INCREMENT - PRIMARY_KEY (UNIQUE, NOT NULL)
+- corsi_di_laurea_id | BIGINT (UNSIGNED)
+- name | VARCHAR(50) NOT NULL
+- description | TEXT NOT NULL
+- year | TINYINT NOT NULL
+
+## Insegnanti
+
+- ID | BIGINT - AUTO_INCREMENT - PRIMARY_KEY (UNIQUE, NOT NULL)
+- name | VARCHAR(20) - NOT NULL
+- lastname | VARCHAR(20) - NOT NULL
+- email | VARCHAR(50) - NOT NULL, UNIQUE
+- phone | VARCHAR(20) - NULL
