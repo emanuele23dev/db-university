@@ -1,0 +1,77 @@
+## 1. Selezionare tutti gli studenti nati nel 1990 (160)
+
+55	4	Lauro	Vitale	1990-01-30	BWOQAH56L35A201P	2018-10-22	620087	baldassarre.mancini@dangelo.com
+86	12	Matilde	Ruggiero	1990-11-17	UIFHBM73Q42E973M	2021-02-14	620118	mariagiulia18@gmail.com
+217	16	Marieva	Mariani	1990-08-30	CRKYAI63Z72H930S	2020-12-13	620249	wgrassi@mariani.net
+247	14	Marco	Bruno	1990-08-12	EPSWUQ63H25I670E	2020-06-08	620279	ubaldo70@damico.it
+306	3	Maika	Bianco	1990-01-04	GVOZOR19K65V944K	2019-11-21	620338	nmancini@yahoo.com
+320	72	Fabiano	Riva	1990-08-11	UYVLCP51Y15P902L	2019-10-10	620352	miriam.lombardi@benedetti.org
+321	44	Amedeo	Valentini	1990-04-20	RLYGWZ26T24Y855N	2020-04-18	620353	dimitri.mariani@neri.com
+334	59	Tolomeo	Morelli	1990-03-30	WCLRKV39N67J467D	2019-12-24	620366	amedeo15@bruno.it
+352	45	Eriberto	Sartori	1990-10-14	MVUSNM49E07E792U	2018-07-16	620384	serse67@messina.com
+359	2	Harry	Riva	1990-09-03	FLFQUM03P76T235N	2018-06-12	620391	hcaputo@ferraro.com
+365	67	Ursula	Sanna	1990-09-02	UWSWJL98Y56C153N	2018-11-20	620397	vgreco@mancini.com
+410	32	Pietro	Ruggiero	1990-05-11	IIXLFZ21V02C420U	2020-04-08	620442	gerlando21@libero.it
+430	4	Harry	Russo	1990-03-23	BOTXVQ95I30B140O	2020-02-06	620462	giulietta.parisi@gmail.com
+443	71	Marino	Sartori	1990-10-12	IVJSXN23A76B707B	2018-11-01	620475	gallo.vera@hotmail.com
+487	36	Cira	Costantini	1990-04-12	GTINRS89N80F500K	2020-11-03	620519	rizzo.enrica@piras.it
+519	63	Damiana	Farina	1990-01-12	EYKYWC35O38O744L	2020-07-17	620551	yserra@russo.it
+527	43	Elda	Mariani	1990-04-29	ZHGJNM05Z55G492M	2021-05-21	620559	antonio25@yahoo.it
+528	69	Maika	Barbieri	1990-04-29	VBMCXI81Q82M718M	2020-05-11	620560	ygiordano@yahoo.com
+582	41	Augusto	Costantini	1990-07-31	FPQBKO39S99H539Q	2018-06-26	620614	radio21@grassi.com
+624	4	Cira	De rosa	1990-04-26	FDATYC59R80F558X	2019-01-31	620656	colombo.morgana@pellegrino.com
+635	45	Boris	Riva	1990-12-28	FWYSKJ18E55V673Z	2020-10-30	620667	sandro72@gmail.com
+638	5	Marcella	De rosa	1990-08-29	IQDFNY14D55U297S	2018-09-11	620670	assia.palumbo@libero.it
+695	37	Boris	Martinelli	1990-02-25	LMGYIC37W94J261P	2020-04-27	620727	damiana08@bianco.org
+710	39	Egisto	Amato	1990-06-07	SZSUWA12R81D485V	2020-08-24	620742	qgallo@libero.it
+787	63	Laura	Coppola	1990-06-11	IZINQY50C42J452U	2020-05-17	620819	rinaldi.brigitta@marchetti.com
+857	56	Prisca	De luca	1990-03-12	EEGCVW93W78P140E	2019-09-26	620889	enrica.pagano@gallo.it
+877	25	Samira	Giuliani	1990-03-08	GWKCVN98H21T451U	2019-02-27	620909	danuta16@email.it
+912	36	Flaviana	Costa	1990-02-06	ALEXFQ09O80M836R	2020-08-15	620944	michele.lombardi@yahoo.com
+919	66	Secondo	Lombardo	1990-08-09	OPZDMU62P86F655U	2021-03-21	620951	bbarone@sartori.net
+1007	61	Oreste	Bianco	1990-07-08	VVBTJU54P76X363N	2021-04-18	621039	alan.colombo@yahoo.com
+1122	40	Kociss	De Angelis	1990-06-01	VQHNXM66A72G075Q	2021-04-24	621154	brigitta87@basile.it
+1123	10	Albino	Riva	1990-11-13	JXPRBQ67E99E968Q	2020-03-04	621155	rferraro@email.it
+1130	68	Mirko	Coppola	1990-02-10	SZVBTX90Y83R295A	2018-08-10	621162	grazia.negri@yahoo.com
+1162	29	Tancredi	Guerra	1990-05-02	DINOMU36K82R031K	2019-09-26	621194	jferrara@fontana.com
+1181	23	Enrica	Bruno	1990-07-13	JBYZPU73J22J109U	2021-04-23	621213	qgrassi@yahoo.it
+1190	57	Gianmarco	Rizzo	1990-08-26	EZPZHW06V87Z409D	2018-11-07	621222	ebellini@yahoo.it
+1214	40	Miriana	Negri	1990-08-15	HKIPIX45A01G163V	2020-09-24	621246	germano18@ferri.com
+1227	26	Rodolfo	Rossetti	1990-05-21	NTZRPT68F75Y770Y	2019-09-25	621259	timothy.lombardi@martino.org
+1291	23	Iacopo	Sorrentino	1990-06-20	MNITJF41I07V836B	2018-12-05	621323	giulietta49@yahoo.com
+1343	8	Cosetta	Martino	1990-01-06	CTSGZY69B86N969L	2018-08-04	621375	basile.zelida@testa.it
+1376	52	Artemide	Bianco	1990-12-21	YKIZWI45D57V431Z	2019-08-19	621408	donati.vania@gmail.com
+1442	23	Nayade	Bellini	1990-11-18	KPINCB99S52K194Q	2019-06-11	621474	mietta.greco@yahoo.it
+1486	17	Ethan	Neri	1990-07-08	XNCKTH78F26W131H	2019-12-23	621518	ipiras@libero.it
+1496	65	Davis	Ferrara	1990-05-09	BNLTXY41D25N024I	2020-02-18	621528	rizzo.vitalba@ferretti.it
+1497	64	Olimpia	Serra	1990-07-25	XBUCEI78Y30G117T	2020-04-01	621529	vitale.noel@esposito.it
+1505	38	Brigitta	Rinaldi	1990-11-14	UFMWXE13H54A970A	2020-12-15	621537	xmilani@yahoo.com
+1564	75	Laura	Cattaneo	1990-01-26	MIMNRN14B99E364M	2019-07-19	621596	galli.ingrid@lombardi.com
+1572	61	Ruth	Guerra	1990-07-31	UAEVLN07P28Z561C	2020-12-10	621604	demi08@rossi.it
+1599	52	Selvaggia	Ferri	1990-04-26	LJMVWF38G03A881Q	2018-11-14	621631	romano.cassiopea@yahoo.com
+1657	53	Nazzareno	Fabbri	1990-02-06	FXTQCL20K66N186J	2021-06-01	621689	barbieri.assia@martinelli.com
+1673	55	Lucia	Martini	1990-11-18	QISWZS06N00V825V	2020-02-08	621705	derosa.flaviana@email.it
+1687	71	Furio	Battaglia	1990-10-30	PXAVGZ01W97G783R	2019-02-06	621719	gianriccardo.mariani@yahoo.com
+1695	67	Carlo	D'angelo	1990-11-26	QBBYIJ82N00W683U	2018-10-24	621727	gavino90@yahoo.com
+1715	19	Tolomeo	Piras	1990-09-17	XNRZKQ19Z63L256T	2019-09-10	621747	fiorentino90@yahoo.it
+1739	4	Raniero	De rosa	1990-07-04	ORXOEI75M49L732L	2019-06-12	621771	joannes.sartori@yahoo.it
+1771	55	Danthon	Longo	1990-05-03	DLBXXT54A73H875F	2020-06-21	621803	brigitta.lombardi@damico.it
+1855	3	Erminia	Sala	1990-06-01	TZOSQM13M75Z551I	2021-01-17	621887	smoretti@barone.org
+1885	58	Giacinta	Galli	1990-04-17	BKZMZQ49P70W077O	2018-08-03	621917	flaviana98@yahoo.com
+1921	66	Ortensia	Sartori	1990-04-05	AVHKSX27U40G212X	2019-03-14	621953	qmontanari@rossetti.it
+1946	65	Costanzo	Morelli	1990-12-18	RJPUVA03F33I594G	2020-04-19	621978	rebecca84@giuliani.com
+1978	14	Elio	Ferrari	1990-10-16	KOWOHB43W49C058Y	2020-04-16	622010	deangelis.kociss@ferri.it
+1979	25	Ubaldo	Galli	1990-09-12	GNYFTP14E12E794J	2018-12-26	622011	fiorentino49@libero.it
+1997	2	Rufo	Greco	1990-03-03	VEUMII60C51P635H	2020-03-30	622029	lmancini@email.it
+2028	32	Rosalino	Messina	1990-08-05	ZNDKSG60A81S569Z	2020-05-07	622060	felicia80@yahoo.it
+2061	35	Violante	Santoro	1990-01-10	WOLHYL73W56R867R	2019-03-27	622093	valentini.michele@email.it
+2104	5	Samira	Rizzo	1990-05-07	DABXHS46S97J083E	2019-07-06	622136	fbarbieri@yahoo.com
+2184	64	Morgana	Esposito	1990-05-30	TJCYCP93Q21T068O	2019-04-05	622216	xruggiero@bruno.it
+2232	21	Rudy	Caruso	1990-05-24	YDMXTM21L01X925U	2019-05-20	622264	sibilla55@yahoo.com
+2262	21	Germano	Pagano	1990-03-27	CUWNGY34P24N905J	2018-07-22	622294	rosalba.costa@montanari.it
+2289	18	Elga	Damico	1990-12-18	FHGQKY20C50Z637O	2020-03-19	622321	bserra@romano.it
+2323	28	Kristel	Parisi	1990-10-21	BCSGTK67O20U235F	2020-10-12	622355	deborah.messina@parisi.org
+2397	53	Vania	Guerra	1990-09-14	EZZRMN58O64U304A	2021-03-14	622429	ibruno@fontana.net
+
+
+## 2. Selezionare tutti i corsi che valgono più di 10 crediti (479)
