@@ -16,3 +16,10 @@ and cfu > 10;
 SELECT \*
 from students
 where timestampdiff(YEAR, date_of_birth, CURDATE()) > 30;
+
+## 4. Selezionare tutti i corsi del primo semestre del primo anno di un qualsiasi corso di laurea (286)
+
+SELECT \*
+from courses
+where year = 1
+and period = "I semestre"
