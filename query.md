@@ -36,3 +36,14 @@ and hour > '14:00:00';
 SELECT \*
 from degrees
 where level = 'magistrale';
+
+## 7. Da quanti dipartimenti è composta l'università? (12)
+
+SELECT \*
+from departments
+
+## 8. Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
+
+SELECT \*
+from teachers
+where phone;
