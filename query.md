@@ -47,3 +47,29 @@ from departments
 SELECT \*
 from teachers
 where phone;
+
+## 9. Inserire nella tabella degli studenti un nuovo record con i propri dati (per il campo degree_id, inserire un valore casuale)
+
+insert into students (degree_id, name, surname, date_of_birth, fiscal_code, enrolment_date, registration_number, email)
+
+value (23, 'Emanuele', 'Meggiarin', '1988-06-23', 'XYZABC12D34E567F', '2021-09-01', '620037', 'emanuele@gmail.it')
+
+<!-- Numero totale di record con 👇
+SELECT COUNT(*) FROM students; -->
+
+## 10. Cambiare il numero dell’ufficio del professor Pietro Rizzo in 126
+
+update teachers
+set office_number = 126
+where id = 58
+
+## 11. Eliminare dalla tabella studenti il record creato precedentemente al punto 9
+
+<!-- disabilito temporaneamente la modalità di safe update con 👇
+SET SQL_SAFE_UPDATES = 0; -->
+
+delete from students
+where surname = 'Meggiarin';
+
+<!-- abilito nuovamente la modalità di safe update con 👇
+SET SQL_SAFE_UPDATES = 1; -->
