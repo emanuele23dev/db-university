@@ -10,3 +10,9 @@ select \*
 from courses
 where cfu
 and cfu > 10;
+
+## 3. Selezionare tutti gli studenti che hanno più di 30 anni
+
+SELECT \*
+from students
+where timestampdiff(YEAR, date_of_birth, CURDATE()) > 30;
