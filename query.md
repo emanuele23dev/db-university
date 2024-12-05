@@ -107,6 +107,12 @@ group by year_of_enrolment
 
 # Contare gli insegnanti che hanno l'ufficio nello stesso edificio
 
+```sql
+select count(*) as numb_of_teachers, office_address as same_place_office
+from teachers
+group by same_place_office
+```
+
 # Calcolare la media dei voti di ogni appello d'esame
 
 # Contare quanti corsi di laurea ci sono per ogni dipartimento
