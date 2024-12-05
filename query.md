@@ -158,7 +158,15 @@ and degrees.level = 'magistrale'
 # Selezionare tutti i corsi in cui insegna Fulvio Amato (id=44)
 
 ```sql
-
+select courses.id as course_id,
+courses.name as course_name,
+courses.period,
+courses.year,
+courses.cfu
+from courses
+join course_teacher on courses.id = course_teacher.course_id
+join teachers on course_teacher.teacher_id = teachers.id
+where teachers.id = 44
 ```
 
 # Selezionare tutti gli studenti con i dati relativi al corso di laurea a cui sono iscritti
