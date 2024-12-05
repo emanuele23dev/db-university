@@ -174,7 +174,17 @@ where teachers.id = 44
 # e il relativo dipartimento, in ordine alfabetico per cognome e nome
 
 ```sql
-
+select students.id as student_id,
+students.name as student_name,
+students.surname as student_surname,
+degrees.id as degree_id,
+degrees.name as degree_name,
+departments.id as department_id,
+departments.name as department_name
+from students
+join degrees on students.degree_id = degrees.id
+join departments on degrees.department_id = departments.id
+order by students.surname, students.name
 ```
 
 # Selezionare tutti i corsi di laurea con i relativi corsi e insegnanti
