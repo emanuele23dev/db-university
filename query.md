@@ -169,9 +169,7 @@ join teachers on course_teacher.teacher_id = teachers.id
 where teachers.id = 44
 ```
 
-# Selezionare tutti gli studenti con i dati relativi al corso di laurea a cui sono iscritti
-
-# e il relativo dipartimento, in ordine alfabetico per cognome e nome
+# Selezionare tutti gli studenti con i dati relativi al corso di laurea a cui sono iscritti e il relativo dipartimento, in ordine alfabetico per cognome e nome
 
 ```sql
 select students.id as student_id,
@@ -206,7 +204,15 @@ join teachers on course_teacher.teacher_id = teachers.id
 # Selezionare tutti i docenti che insegnano nel Dipartimento di Matematica (54)
 
 ```sql
-
+select distinct teachers.id as teacher_id,
+teachers.name as teacher_name,
+teachers.surname as teacher_surname
+from teachers
+join course_teacher on teachers.id = course_teacher.teacher_id
+join courses on course_teacher.course_id = courses.id
+join degrees on courses.degree_id = degrees.id
+join departments on degrees.department_id = departments.id
+where departments.name = 'Dipartimento di Matematica'
 ```
 
 # BONUS: Selezionare per ogni studente il numero di tentativi sostenuti per ogni esame,
