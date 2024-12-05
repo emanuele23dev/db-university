@@ -190,7 +190,17 @@ order by students.surname, students.name
 # Selezionare tutti i corsi di laurea con i relativi corsi e insegnanti
 
 ```sql
-
+select degrees.id as degree_id,
+degrees.name AS degree_name,
+courses.id AS course_id,
+courses.name AS course_name,
+teachers.id AS teacher_id,
+teachers.name AS teacher_name,
+teachers.surname AS teacher_surname
+from degrees
+join courses on degrees.id = courses.degree_id
+join course_teacher on courses.id = course_teacher.course_id
+join teachers on course_teacher.teacher_id = teachers.id
 ```
 
 # Selezionare tutti i docenti che insegnano nel Dipartimento di Matematica (54)
