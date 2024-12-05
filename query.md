@@ -115,6 +115,12 @@ group by same_place_office
 
 # Calcolare la media dei voti di ogni appello d'esame
 
+```sql
+select exam_id, avg(vote) as avg_vote
+from exam_student
+group by exam_id
+```
+
 # Contare quanti corsi di laurea ci sono per ogni dipartimento
 
 # Joins:
