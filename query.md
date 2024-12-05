@@ -123,6 +123,10 @@ group by exam_id
 
 # Contare quanti corsi di laurea ci sono per ogni dipartimento
 
+```sql
+
+```
+
 # Joins:
 
 Selezionare tut# ti gli studenti iscritti al Corso di Laurea in Economia
