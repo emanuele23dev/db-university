@@ -124,7 +124,9 @@ group by exam_id
 # Contare quanti corsi di laurea ci sono per ogni dipartimento
 
 ```sql
-
+select count(*) as courses_numb, name as every_department
+from courses
+group by every_department
 ```
 
 # Joins:
